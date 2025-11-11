@@ -1,0 +1,101 @@
+📘 Plan du Cours React 2025
+Partie 1 – Bases de React
+
+   1. Introduction à React
+      - Qu’est-ce que React, pourquoi l’utiliser
+      - L’écosystème React en 2025 (React 19, Server Components, etc.)
+      - Installation (Vite, Next.js, Create React App n’est plus recommandé)
+
+   2. Les Composants
+      = Fonctionnels vs Class Components (focus sur les fonctionnels)
+      = JSX en profondeur
+      = Exercices : créer un composant Bonjour
+      
+   3. Props et State
+      = Passer des données entre composants
+      = useState (nouvelle approche simplifiée en 2025)
+      = Exercices : compteur dynamique
+
+Partie 2 – React Intermédiaire
+
+Les Hooks modernes
+
+useEffect, useContext, useReducer
+
+Nouveaux hooks en 2025 (useActionState, useOptimistic, etc.)
+
+Exercices : todo-list avec hooks
+
+Gestion des événements & formulaires
+
+Events en React
+
+Formulaires contrôlés & non contrôlés
+
+Exercices : formulaire d’inscription
+
+Rendu conditionnel et listes
+
+Boucles (map)
+
+Conditions (ternaire, &&)
+
+Exercices : affichage conditionnel
+
+Partie 3 – Avancé
+
+React Router 2025
+
+Navigation côté client
+
+Router + Layouts modernes
+
+Exercices : mini-site multipages
+
+Context API & Redux moderne
+
+Context pour le partage d’état global
+
+Redux Toolkit 2025 simplifié
+
+Exercices : panier e-commerce
+
+Optimisation des performances
+
+Memoization (React.memo, useMemo, useCallback)
+
+Suspense & lazy loading
+
+Exercices : améliorer les perfs d’une app lente
+
+Partie 4 – Full-stack & Nouvelles Features
+
+React Server Components (RSC) – Nouveauté 2025
+
+Différence client/server components
+
+Exemple avec Next.js 15
+
+Exercices : page hybride server + client
+
+Fetching & Gestion des données
+
+Fetch API
+
+TanStack Query (React Query)
+
+Exercices : afficher des données API
+
+Tests avec React
+
+Jest + React Testing Library
+
+Exercices : tester un bouton + API call
+
+Partie 5 – Projets Concrets
+
+🎯 Projet 1 : Mini Blog avec React Router
+🎯 Projet 2 : Application de tâches (todo-list) avec Context
+🎯 Projet 3 : Dashboard avec graphiques (Recharts + API)
+🎯 Projet 4 : E-commerce avec panier (Redux Toolkit + React Query)
+🎯 Projet 5 : Full-stack app avec Next.js 15 (Server Components + Auth)
