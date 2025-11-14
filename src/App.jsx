@@ -4,7 +4,10 @@
 // import Footer from "./components/exo_chap2/Footer"
 
 // import Count from "./components/exo_chap3/Count"
-import Stock from "./components/exo_chap3/Stock"
+// import Stock from "./components/exo_chap3/Stock"
+
+// import UseEffect from "./components/hook/UseEffect"
+import Timer from "./components/hook/Timer"
 
 export default function App() {
   return (
@@ -17,7 +20,9 @@ export default function App() {
       <Footer /> */}
 
       {/* <Count /> */}
-      <Stock />
+      {/* <Stock /> */}
+      {/* <UseEffect /> */}
+      <Timer />
     </div>
   )
 }
